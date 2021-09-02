@@ -1,2 +1,1 @@
-# __next-redux-exam
- 
+# next-redux-exam
